@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+[![willianrod's berksezer stats](https://github-readme-stats.vercel.app/api/berksezer?username=berksezer)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **berksezer/berksezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
